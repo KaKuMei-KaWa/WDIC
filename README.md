@@ -1,1 +1,2 @@
-Das ist Teil der Hausübung
+Das ist kein Teil der Hausübung
+
